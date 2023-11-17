@@ -22,3 +22,4 @@ int main()
     cout << lower_bound(a.begin(), a.end(), x) - a.begin() << endl;
     cout << upper_bound(a.begin(), a.end(), x) - a.begin() << endl;
     return 0;
+}
